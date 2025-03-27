@@ -113,7 +113,7 @@
         "DisplayName": "2X Health",
         "Value": "ninja_2XHP",
         "Description": [
-           "Doubles Ninja's health",
+           "Doubles Ninja's health, works with battle rush.",
         ]
       },
 
@@ -121,7 +121,7 @@
         "DisplayName": "3X Health",
         "Value": "ninja_3XHP",
         "Description": [
-           "Triples Ninja's health",
+           "Triples Ninja's health, untested with battle rush",
         ]
       },
 
@@ -141,7 +141,7 @@
         "DisplayName": "2X Health",
         "Value": "titan_2XHP",
         "Description": [
-           "Doubles Titans's health",
+           "Doubles Titans's health, works with battle rush",
         ]
       },
 
@@ -149,7 +149,7 @@
         "DisplayName": "3X Health",
         "Value": "titan_3XHP",
         "Description": [
-           "Triples Titan's health",
+           "Triples Titan's health, untested with battle rush.",
         ]
       },
 
